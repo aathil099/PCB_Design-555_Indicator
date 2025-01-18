@@ -3,6 +3,7 @@ Altium Designer PCB works of 555 timer indicator project
 
 ## Images
 ![image alt}](https://github.com/aathil099/PCB_Design-555_Indicator/blob/main/sq.png?raw=true)
+![image alt}](https://github.com/aathil099/PCB_Design-555_Indicator/blob/main/sq.png?raw=true)
 
 
 
