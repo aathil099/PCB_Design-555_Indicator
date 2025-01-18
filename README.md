@@ -5,9 +5,6 @@ Altium Designer PCB works of 555 timer indicator project
 ![image alt}](https://github.com/aathil099/PCB_Design-555_Indicator/blob/main/sq.png?raw=true)
 ![image alt}](https://github.com/aathil099/PCB_Design-555_Indicator/blob/main/dw.png?raw=true)
 
-
-
-
 ### Starting
 To download this project to your computer:
 1. Install GIT: https://git-scm.com/downloads
